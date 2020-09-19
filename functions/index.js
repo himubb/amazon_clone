@@ -2,7 +2,7 @@ const functions = require("firebase-functions");
 const express = require("express");
 const cors = require("cors");
 const stripe = require("stripe")(
-  "sk_test_51HQqEjDJ9jX2AYAYKxEeSZQySnGgl2X4piPRUUV3WtxHBNlh7xF3fYeB4IUB6CBgmssm9ClyEgbkD3j3qSUkAr7K00e2R0cD53"
+  "enter stripe key here"
 );
 
 // // Create and Deploy Your First Cloud Functions
